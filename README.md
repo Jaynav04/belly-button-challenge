@@ -11,3 +11,6 @@ Find the final dashboard Deployed on Github Pages: https://jaynav04.github.io/be
 ### Dataset Used : http://robdunnlab.com/projects/belly-button-biodiversity/
 
 ## Dashboard Key Points
+
+Main View
+ ![image](https://github.com/Jaynav04/belly-button-challenge/assets/130405173/a9d6b193-ad7d-4ef9-bc4f-0618922cc93a)
