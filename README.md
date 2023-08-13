@@ -1,4 +1,6 @@
 # belly-button-challenge
+![image](https://github.com/Jaynav04/belly-button-challenge/assets/130405173/2ac2db2b-8728-4a3a-8a19-4c143044f0ca)
+
 - Find my code inside the starter code folder
 
 ## Summary
